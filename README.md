@@ -13,4 +13,5 @@ image_scrape.ipynb provides the code to download all required images to disk. SA
 
 Price_Prediction.ipynb includes machine learning models tested for used car price prediction.
 
+The two PDF's contain the full written report of the two sides to the project (Web Scraping and Machine Learning).
 
