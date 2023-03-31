@@ -7,3 +7,8 @@ NOTE:
 
 THIS CODE IS FOR EDUCATIONAL PURPOSES ONLY AND IS NOT MEANT TO PROVIDE ANY MONETARY GAIN. PLEASE USE IT RESPONSIBILITY AND DO NOT THROTTLE ANY WEBSITES THAT ARE SCRAPED. I TAKE NO RESPONSIBILITY FOR ANY HARM CAUSED BY THIS CODE.
 
+Craigslist_Image_Classification_Final.ipynb contains the neural networks for used car image classification into one of 24 brands.
+
+image_scrape.ipynb provides the code to download all required images to disk. SAME DISCLAIMER AS ABOVE APPLIES.
+
+
