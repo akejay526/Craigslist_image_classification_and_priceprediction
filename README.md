@@ -11,4 +11,6 @@ Craigslist_Image_Classification_Final.ipynb contains the neural networks for use
 
 image_scrape.ipynb provides the code to download all required images to disk. SAME DISCLAIMER AS ABOVE APPLIES.
 
+Price_Prediction.ipynb includes machine learning models tested for used car price prediction.
+
 
